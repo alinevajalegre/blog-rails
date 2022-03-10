@@ -3,6 +3,8 @@ Blog simples utilizando Ruby on Rails, focado somente no Back-end.
 
 Neste blog é possível escrever, ler, editar e deletar artigos. Também é possível fazer o CRUD de comentários dentro de cada um desses artigos. 
 Foi desenvolvido um sistema de autenticação simples utilizando http_basic_authenticate, que não é o método mais seguro de autenticação, mas utilizei a título de aprendizado.
+
+
 ![image](https://user-images.githubusercontent.com/82518612/157721507-49debcdc-6447-4d7d-b4b6-019443386aa4.png)
 
 ![image](https://user-images.githubusercontent.com/82518612/157720915-ecb1d14b-d56d-42a3-ac12-06700f933336.png)
