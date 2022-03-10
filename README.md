@@ -25,4 +25,4 @@ Ainda é possível escolher um status do comentário, sendo público, privado ou
 
 
 Para iniciar um servidor web dentro da pasta do projeto: 
-# bin/rails server
+``` bin/rails server ```
