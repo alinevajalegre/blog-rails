@@ -18,10 +18,10 @@ Ainda é possível escolher um status do comentário, sendo público, privado ou
 
 # **Pré Requisitos**
 
--> Ruby versão 2.7.0 ou superior
--> Rails versao 7.0.0 ou superior
--> Bundler versão 2.3.8 ou superior
--> Sqlite3 versão 3.31.1 ou superior
+- -> Ruby versão 2.7.0 ou superior - 
+- -> Rails versao 7.0.0 ou superior - 
+- -> Bundler versão 2.3.8 ou superior -
+- -> Sqlite3 versão 3.31.1 ou superior -
 
 
 Para iniciar um servidor web dentro da pasta do projeto: 
